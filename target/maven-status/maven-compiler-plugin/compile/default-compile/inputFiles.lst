@@ -4,7 +4,9 @@ D:\IDEAProject\travel\src\main\java\cn\itcast\travel\domain\User.java
 D:\IDEAProject\travel\src\main\java\cn\itcast\travel\web\servlet\UserServlet.java
 D:\IDEAProject\travel\src\main\java\cn\itcast\travel\domain\Seller.java
 D:\IDEAProject\travel\src\main\java\cn\itcast\travel\service\impl\CategoryServiceImpl.java
+D:\IDEAProject\travel\src\main\java\cn\itcast\travel\service\impl\FavoriteServiceImpl.java
 D:\IDEAProject\travel\src\main\java\cn\itcast\travel\web\servlet\CheckCodeServlet.java
+D:\IDEAProject\travel\src\main\java\cn\itcast\travel\dao\impl\RouteImageDaoImpl.java
 D:\IDEAProject\travel\src\main\java\cn\itcast\travel\dao\impl\UserDaoImpl.java
 D:\IDEAProject\travel\src\main\java\cn\itcast\travel\domain\Route.java
 D:\IDEAProject\travel\src\main\java\cn\itcast\travel\util\MailUtils.java
@@ -17,10 +19,16 @@ D:\IDEAProject\travel\src\main\java\cn\itcast\travel\domain\Category.java
 D:\IDEAProject\travel\src\main\java\cn\itcast\travel\service\UserService.java
 D:\IDEAProject\travel\src\main\java\cn\itcast\travel\dao\CategoryDao.java
 D:\IDEAProject\travel\src\main\java\cn\itcast\travel\util\JDBCUtils.java
+D:\IDEAProject\travel\src\main\java\cn\itcast\travel\dao\RouteImageDao.java
+D:\IDEAProject\travel\src\main\java\cn\itcast\travel\service\FavoriteService.java
 D:\IDEAProject\travel\src\main\java\cn\itcast\travel\service\RouteService.java
 D:\IDEAProject\travel\src\main\java\cn\itcast\travel\service\impl\UserServiceImpl.java
 D:\IDEAProject\travel\src\main\java\cn\itcast\travel\service\impl\RouteServiceImpl.java
+D:\IDEAProject\travel\src\main\java\cn\itcast\travel\dao\SellerDao.java
+D:\IDEAProject\travel\src\main\java\cn\itcast\travel\dao\FavoriteDao.java
+D:\IDEAProject\travel\src\main\java\cn\itcast\travel\dao\impl\FavoriteDaoImpl.java
 D:\IDEAProject\travel\src\main\java\cn\itcast\travel\service\CategoryService.java
+D:\IDEAProject\travel\src\main\java\cn\itcast\travel\dao\impl\SellerDaoImpl.java
 D:\IDEAProject\travel\src\main\java\cn\itcast\travel\util\Md5Util.java
 D:\IDEAProject\travel\src\main\java\cn\itcast\travel\dao\RouteDao.java
 D:\IDEAProject\travel\src\main\java\cn\itcast\travel\domain\ResultInfo.java

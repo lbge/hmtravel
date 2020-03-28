@@ -116,10 +116,9 @@ public class UserServlet extends BaseServlet {
             info.setErrorMsg("用户未激活");
         }
         if (u != null && "Y".equals(u.getStatus())) {
+            request.getSession().setAttribute("user", u);
             info.setFlag(true);
         }
-        HttpSession session = request.getSession();
-        session.setAttribute("user", u);
         //响应数据,将信息序列化
         ObjectMapper mapper = new ObjectMapper();
         response.setContentType("application/json;charset=utf-8");
